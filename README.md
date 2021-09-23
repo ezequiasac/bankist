@@ -7,6 +7,6 @@ Aplicativo de simulação bancária desenvolvido durante o curso 'The Complete J
 - username: js, password: 1111
 - username: jd, password: 2222
 
-## Hosting Site
+## Final Version
 
 - [Bankist](https://bankist21.netlify.app/)
