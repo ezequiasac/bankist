@@ -9,4 +9,4 @@ Aplicativo de simulação bancária desenvolvido durante o curso 'The Complete J
 
 ## Hosting Site
 
-- [Netifly](https://bankist21.netlify.app/)
+- [Bankist](https://bankist21.netlify.app/)
